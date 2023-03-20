@@ -17,7 +17,7 @@ public class RightTrianglePatternDaemonTest {
 13
                     try {
 14
-                        Thread.sleep(500);
+                        Thread.sleep(1000);
 15
 16
                     } catch (InterruptedException ignored) {
