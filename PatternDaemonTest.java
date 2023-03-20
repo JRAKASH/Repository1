@@ -1,4 +1,4 @@
-public class RightTrianglePatternDaemonTest {
+public class PatternDaemonTest {
 4
 5
     public static void main(String args[]) {
@@ -9,15 +9,15 @@ public class RightTrianglePatternDaemonTest {
 9
 
 10
-                while (true) {
+                   for (int n=0;n<=99;n++) {
 11
-                    System.out.println("I'm a Daemon.");
-12
-                    // Sleep for half a second
+                    System.out.println("I'm a Daemon Thread");
+                    System.out.println(" Welcome To 2 0 2 3 Years .....Welcome .... ");
+                    System.out.println("2 0 2 3 ...2 0 2 3...2 0 2 3...");
 13
                     try {
 14
-                        Thread.sleep(1000);
+                        Thread.sleep(2000);
 15
 16
                     } catch (InterruptedException ignored) {
