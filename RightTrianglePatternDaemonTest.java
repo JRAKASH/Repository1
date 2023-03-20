@@ -1,4 +1,4 @@
-public class JavaDaemonTest {
+public class RightTrianglePatternDaemonTest {
 4
 5
     public static void main(String args[]) {
